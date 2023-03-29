@@ -1,5 +1,5 @@
 {
-    "name": "eolica/nova-locale-switcher",
+    "name": "youneselbarnoussi/nova-locale-switcher",
     "description": "A simple locale switcher for Nova without any concrete localization implementation",
     "keywords": [
         "eolica",
